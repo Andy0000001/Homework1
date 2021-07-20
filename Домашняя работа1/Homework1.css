@@ -1,0 +1,181 @@
+h1 {
+text-align: center;
+}
+h2 {
+   color: cadetblue;
+}
+h3 {
+    color: cadetblue;
+}
+p {
+    line-height: 0.75cm;
+    font-family: sans-serif;
+}
+
+
+.player1 {
+    font-family: sans-serif;
+}
+
+
+.square1 {
+    width: 120px;
+    height: 120px;
+    background-color: darkcyan;
+    display: inline-flex;
+}
+
+.p1 {
+   margin: auto;
+   font-size: 180%;
+}
+
+
+
+
+.square2 {
+    width: 120px;
+    height: 120px;
+    background-color: darkcyan;
+    display: inline-flex;
+}
+
+.p2 {
+    margin: auto;
+    color: red;
+    font-size: 180%;
+}
+
+.square3 {
+    width: 120px;
+    height: 120px;
+    background-color: darkcyan;
+    display: inline-flex;
+}
+
+.p3{
+    margin: auto;
+    color: red;
+    font-size: 180%;
+}
+
+.square4{
+    width: 120px;
+    height: 120px;
+    background-color: darkcyan;
+    display: inline-flex;
+}
+
+.p4 {
+    margin: auto;
+    color: red;
+    font-size: 180%;
+}
+
+.square5{
+    width: 120px;
+    height: 120px;
+    background-color: darkcyan;
+    display: inline-flex;
+}
+
+.p5 {
+    margin: auto;
+    font-size: 180%;
+}
+
+
+.square6 {
+    width: 120px;
+    height: 120px;
+    background-color: darkcyan;
+    display: inline-flex;
+}
+
+.p6{
+    margin: auto;
+    font-size: 180%;
+}
+
+.player2 {
+    font-family: sans-serif;
+}
+
+.square7 {
+    width: 120px;
+    height: 120px;
+    background-color: darkcyan;
+    display: inline-flex;
+}
+
+.p7 {
+   margin: auto;
+   font-size: 180%;
+}
+
+
+
+
+.square8 {
+    width: 120px;
+    height: 120px;
+    background-color: darkcyan;
+    display: inline-flex;
+}
+
+.p8 {
+    margin: auto;
+    color: red;
+    font-size: 180%;
+}
+
+.square9 {
+    width: 120px;
+    height: 120px;
+    background-color: darkcyan;
+    display: inline-flex;
+}
+
+.p9{
+    margin: auto;
+    color: red;
+    font-size: 180%;
+}
+
+.square10{
+    width: 120px;
+    height: 120px;
+    background-color: darkcyan;
+    display: inline-flex;
+}
+
+.p10 {
+    margin: auto;
+    color: red;
+    font-size: 180%;
+}
+
+.square11{
+    width: 120px;
+    height: 120px;
+    background-color: darkcyan;
+    display: inline-flex;
+}
+
+.p11 {
+    margin: auto;
+    font-size: 180%;
+}
+
+
+.square12 {
+    width: 120px;
+    height: 120px;
+    background-color: darkcyan;
+    display: inline-flex;
+}
+
+.p12{
+    margin: auto;
+    font-size: 180%;
+}
